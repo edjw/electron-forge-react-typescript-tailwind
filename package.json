@@ -1,6 +1,6 @@
 {
-  "name": "electron-forge-react-typescript",
-  "productName": "electron-forge-react-typescript",
+  "name": "electron-forge-react-typescript-tailwind",
+  "productName": "electron-forge-react-typescript-tailwind",
   "version": "1.0.0",
   "description": "My Electron application description",
   "main": ".webpack/main",
@@ -12,10 +12,6 @@
     "lint": "eslint --ext .ts,.tsx ."
   },
   "keywords": [],
-  "author": {
-    "name": "Ed Johnson-Williams",
-    "email": "git@johnsonwilliams.co.uk"
-  },
   "license": "MIT",
   "devDependencies": {
     "@electron-forge/cli": "^6.0.4",
