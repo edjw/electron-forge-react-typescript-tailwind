@@ -1,6 +1,6 @@
 {
-  "name": "electron-forge-react-typescript-2",
-  "productName": "electron-forge-react-typescript-2",
+  "name": "electron-forge-react-typescript",
+  "productName": "electron-forge-react-typescript",
   "version": "1.0.0",
   "description": "My Electron application description",
   "main": ".webpack/main",
